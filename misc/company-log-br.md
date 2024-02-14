@@ -19,7 +19,7 @@ Algum período em 2012, eu, Matheus Dias de Souza, iniciei um canal no Youtube c
 
 * https://www.youtube.com/KlaiderKlaiAnimekist/videos
 
-Eu possui canais mútuos no mesmo tempo, quais eu pessoalmente deletei no ano de 2022:
+Eu possuí canais mútuos no mesmo tempo, quais eu pessoalmente deletei no ano de 2022:
 
 * Recoyx Anime
 * Super Animex Kai
