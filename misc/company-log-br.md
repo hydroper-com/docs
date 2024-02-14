@@ -12,7 +12,7 @@ Outros apelidos usados em jogos:
 
 ## 2012
 
-Algum período em 2012, eu, Matheus Dias de Souza, iniciei um canal no Youtube chamado *Klaider Klai*¹ gravando uso de apps Android e vários jogos.
+Algum período em 2012, eu, Matheus Dias de Souza, iniciei um canal no Youtube chamado *Klaider Klai*¹ gravando uso de apps Android e várias gameplays.
 
 > **Observação**¹: Depois de um problema em 2013, o canal foi deixado para uma pessoa aleatória que enviou nada e modificou o nome do canal e sua descrição.
 > Todos vídeos foram publicados por mim, exceto o último vídeo.
