@@ -53,7 +53,7 @@ Descobri ou aprendi os seguintes softwares em 2014:
 * Adobe Photoshop
 * Adobe Flash Professional
 * TechSmith Camtasia Studio
-* Audacity (bem pouco delete)
+* Audacity (bem pouco dele)
 * Free Flash Decompiler (FFDec)
 * Illust Studio Pro
 
