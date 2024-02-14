@@ -4,7 +4,7 @@
 
 Somewhere in 2012, I, Matheus Dias de Souza, initiated a YouTube channel called *Klaider Klai*¹ demonstrating Android apps and several games.
 
-> **Note**: After a personal problem in 2013, the channel was handed to a random person who uploaded no content and changed the channel's name and description.
+> **Note**¹: After a personal problem in 2013, the channel was handed to a random person who uploaded no content and changed the channel's name and description.
 > All videos were uploaded by me, except the last video on the Grand Fantasia gameplay.
 
 * https://www.youtube.com/KlaiderKlaiAnimekist/videos
