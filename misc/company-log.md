@@ -47,11 +47,13 @@ In 2014 I was focused in digital art production. A little earlier than 2014 I wa
 
 Transformice X was on-going a bit in the beginning of 2014, but I lost interest and ended up learning how to use Adobe Photoshop accidentally.
 
-I've learned the following new softwares in 2014:
+I've discovered or learned the following new softwares in 2014:
 
 * Adobe Photoshop
 * Adobe Flash Professional
 * TechSmith Camtasia Studio
+* Audacity (a bit of)
+* Free Flash Decompiler (FFDec)
 
 I've drawn several arts during 2014 using Adobe Photoshop and a few were vectorized arts in Adobe Flash Professional.
 
