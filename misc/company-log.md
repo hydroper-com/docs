@@ -66,6 +66,7 @@ In the ending of 2014, I was learning the following technologies:
 * MySQL
 * PHP
 * XAMPP
+* Construct 2
 * Hostinger service for online hosting
 
 In 2015, I've changed my internet name to *Hand on Cloud* and I've built the following projects:
