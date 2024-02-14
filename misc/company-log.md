@@ -33,8 +33,7 @@ In my mutual channels I used to edit videos frame per frame using the following 
 
 ## 2013
 
-After a personal problem in the ending of 2013, I handed out the Klaider Klai channel at YouTube and created a new Google account called *Hydroper*, inspired by the Xbox game title Hydro Thunder, a game I was
-played for a short time around 2013.
+After a personal problem in the ending of 2013, I handed out the Klaider Klai channel at YouTube and created a new Google account called *Hydroper*, inspired by the Xbox game title Hydro Thunder, a game I played for a short time around 2013.
 
 Hydroper had a YouTube channel with miscellaneous contents, however it was personally permanently deleted by me as of the 2022 year.
 
