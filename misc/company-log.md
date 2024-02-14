@@ -54,6 +54,7 @@ I've discovered or learned the following new softwares in 2014:
 * TechSmith Camtasia Studio
 * Audacity (a bit of)
 * Free Flash Decompiler (FFDec)
+* Illust Studio Pro
 
 I've drawn several arts during 2014 using Adobe Photoshop and a few were vectorized arts in Adobe Flash Professional.
 
