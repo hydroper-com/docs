@@ -46,7 +46,9 @@ Em 2014 eu estava focado em produção de arte digital. Um pouco antes eu eu est
 * Plankton X (2ª)
 * Transformice X (3ª)
 
-Transformice X estava ocorrendo um pouco do início de 2014, mas desinteressei e acabei aprendendo acidentalmente a utilizar o Adobe Photoshop.
+Transformice X estava ocorrendo um pouco do início de 2014, mas desinteressei e acabei aprendendo acidentalmente a utilizar o Adobe Photoshop. Aqui está um post de um amigo aleatório de internet contendo um pouco das minha animações:
+
+* https://www.facebook.com/transformicehoficial/videos/1523332227899354
 
 Descobri ou aprendi os seguintes softwares em 2014:
 
