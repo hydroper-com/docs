@@ -82,3 +82,5 @@ In 2016 I built the following projects:
 
 Between 2017-2024 I was developing the [Hydroper© Jet](https://github.com/hydroper-jet) project, a language influenced by ActionScript 3.0.
 I was continuously working at the compiler, but I had restarted the project several times.
+
+Between these years I was constantly building side libraries for Transformice Lua modules such as TextAreaShop.
