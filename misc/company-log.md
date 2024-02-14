@@ -1,5 +1,15 @@
 # Company log
 
+## Name log
+
+* Klaider Klai, Super Animex Kai, Recoyx Anime (2012)
+* Hydroper (ending of 2013)
+* Hand on Cloud (2015)
+
+Other nicknames used in games:
+
+* Caiolopelope (Transformice) — My real name is not Caio.
+
 ## 2012
 
 Somewhere in 2012, I, Matheus Dias de Souza, initiated a YouTube channel called *Klaider Klai*¹ demonstrating Android apps and several games.
@@ -23,7 +33,7 @@ In my mutual channels I used to edit videos frame per frame using the following 
 
 ## 2013
 
-After a personal problem in 2013, I handed out the Klaider Klai channel at YouTube and created a new Google account called *Hydroper*, inspired by the Xbox game title Hydro Thunder, a game I was
+After a personal problem in the ending of 2013, I handed out the Klaider Klai channel at YouTube and created a new Google account called *Hydroper*, inspired by the Xbox game title Hydro Thunder, a game I was
 played for a short time around 2013.
 
 Hydroper had a YouTube channel with miscellaneous contents, however it was personally permanently deleted by me as of the 2022 year.
