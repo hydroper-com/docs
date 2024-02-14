@@ -56,7 +56,7 @@ In the ending of 2014, I was learning the following technologies:
 * XAMPP
 * Hostinger service for online hosting
 
-In 2015 I built the following projects:
+In 2015, I've changed my internet name to *Hand on Cloud* and I've built the following projects:
 
 * A forum from the scratch with the technologies (PHP, MySQL, HTML5)
 * A highly incomplete map editor (level designer) for the Transformice game
