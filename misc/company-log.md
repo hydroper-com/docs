@@ -85,4 +85,4 @@ I was continuously working at the compiler, but I had restarted the project seve
 
 Between these years I was constantly building side libraries for Transformice Lua modules such as TextAreaShop.
 
-In 2023 I've experimented with the Godot Engine and produced a very incomplete demo of a Phantasy Star III game remake, which I lost interest on continuing.
+In 2023 I've experimented with the Godot Engine and produced a very incomplete demo of a Phantasy Star III (from the Sega company) game remake, which I lost interest on continuing.
