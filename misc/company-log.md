@@ -51,7 +51,9 @@ In 2014 I was focused in digital art production. A little earlier than 2014 I wa
 * Plankton X (second)
 * Transformice X (third)
 
-Transformice X was on-going a bit in the beginning of 2014, but I lost interest and ended up learning how to use Adobe Photoshop accidentally. Here is a bit of my animations posted by a random friend in the internet:
+Transformice X was on-going a bit in the beginning of 2014, but I lost interest and ended up learning how to use Adobe Photoshop accidentally. Here is a bit¹ of my animations posted by a random friend in the internet:
+
+> **Note**¹: The background music was not added by me.
 
 * https://www.facebook.com/transformicehoficial/videos/1523332227899354
 
