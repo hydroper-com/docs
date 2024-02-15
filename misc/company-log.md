@@ -10,6 +10,12 @@ Other nicknames used in games:
 
 * Caiolopelope (Transformice) — My real name is not Caio.
 
+## Date proofs
+
+* [Steam account](https://steamcommunity.com/id/hydroper/badges/1) (since 2014)
+* [Atelier 801 account](atelier801.com/profile?pr=Caiolopelope%230000) (since 2011)
+* [DeviantArt account](https://www.deviantart.com/hydroper/about) (deviant since 2014)
+
 ## 2012
 
 Somewhere in 2012, I, Matheus Dias de Souza, initiated a YouTube channel called *Klaider Klai*¹ recording Android apps and several gameplays.
