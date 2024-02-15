@@ -10,6 +10,12 @@ Outros apelidos usados em jogos:
 
 * Caiolopelope (Transformice) — Meu nome real não é Caio.
 
+## Comprovações de data
+
+* [Perfil na Steam](https://steamcommunity.com/id/hydroper/badges/1) (desde janeiro de 2014)
+* [Perfil na Atelier 801](atelier801.com/profile?pr=Caiolopelope%230000) (desde 2011)
+* [Perfil no DeviantArt](https://www.deviantart.com/hydroper/about) (deviant desde 2014)
+
 ## 2012
 
 Algum período em 2012, eu, Matheus Dias de Souza, iniciei um canal no Youtube chamado *Klaider Klai*¹ gravando uso de apps Android e várias gameplays.
@@ -94,3 +100,5 @@ Eu estava continuamente trabalhando em seu compilador, mas recomeçei o projeto 
 Entre esses anos eu estava constantemente construindo bibliotecas para os módulos Lua do jogo Transformice da Atelier 801, como a biblioteca TextAreaShop.
 
 Em 2023 eu experimentei a ferramenta de criação de jogos Godot Engine e produzi uma demonstração incompleta de um remake do jogo Phantasy Star III da Sega, qual perdi interesse em continuar.
+
+Em 2023 a organização foi retomada como Hydroper definitivamente, ao invés de nomes alternativos como Klaider Animekist ou Hand on Cloud.
