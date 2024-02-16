@@ -13,7 +13,7 @@ Other nicknames used in games:
 ## Date proofs
 
 * [Steam account](https://steamcommunity.com/id/hydroper/badges/1) (since January of 2014)
-* [Atelier 801 account](atelier801.com/profile?pr=Caiolopelope%230000) (since 2011)
+* [Atelier 801 account](https://atelier801.com/profile?pr=Caiolopelope%230000) (since 2011)
 * [DeviantArt account](https://www.deviantart.com/hydroper/about) (deviant since 2014)
 
 ## 2012
