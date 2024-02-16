@@ -13,7 +13,7 @@ Outros apelidos usados em jogos:
 ## Comprovações de data
 
 * [Perfil na Steam](https://steamcommunity.com/id/hydroper/badges/1) (desde janeiro de 2014)
-* [Perfil na Atelier 801](atelier801.com/profile?pr=Caiolopelope%230000) (desde 2011)
+* [Perfil na Atelier 801](https://atelier801.com/profile?pr=Caiolopelope%230000) (desde 2011)
 * [Perfil no DeviantArt](https://www.deviantart.com/hydroper/about) (deviant desde 2014)
 
 ## 2012
