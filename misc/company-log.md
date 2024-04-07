@@ -87,6 +87,10 @@ In 2015, I've changed my internet name to *Hand on Cloud* and I've built the fol
 
 I had done a few experiments with ActionScript 3.0, but they did not go any far.
 
+Here are certain of my community activities:
+
+* [How to make URL clear?](https://stackoverflow.com/q/31146403/19692949)
+
 ## 2016
 
 In 2016 I built the following projects:
