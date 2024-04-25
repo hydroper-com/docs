@@ -64,7 +64,7 @@ Descobri ou aprendi os seguintes softwares em 2014:
 * Adobe Flash Professional
 * TechSmith Camtasia Studio
 * Audacity (bem pouco dele)
-* Free Flash Decompiler (FFDec)
+* Sothink SWF Decompiler
 * Illust Studio Pro
 
 Desenhei várias artes em 2014 utilizando o Adobe Photoshop e poucas delas eram artes vetorizadas no Adobe Flash Professional.
