@@ -97,7 +97,7 @@ Em 2016 construi os seguintes projetos:
 ## 2017-2024
 
 Entre 2017-2024, eu estava desenvolvendo [Hydroper© Jet](https://github.com/hydroper-jet), uma linguagem influenciada por ActionScript 3.0.
-Eu estava continuamente trabalhando em seu compilador, mas recomeçei o projeto diversas vezes.
+Eu estava continuamente trabalhando em seu compilador, mas recomecei o projeto diversas vezes. O projeto Jet está inativo.
 
 Entre esses anos eu estava constantemente construindo bibliotecas para os módulos Lua do jogo Transformice da Atelier 801, como a biblioteca TextAreaShop.
 
