@@ -37,4 +37,4 @@ In 2023 the single person company got back to being called Hydroper. It was some
 
 ## Life decision
 
-I have nothing to do with "Dias de Souza" and am not Matheus anymore. I am Hydroper only.
+I am Hydroper.
