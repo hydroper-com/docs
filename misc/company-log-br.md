@@ -40,3 +40,7 @@ Em 2016 construi os seguintes projetos:
 
 Entre 2017-2024, eu estava desenvolvendo [Hydroper Jet](https://github.com/hydroper-jet), uma linguagem influenciada por ActionScript 3.0.
 Eu estava continuamente trabalhando em seu compilador, mas recomecei o projeto diversas vezes. O projeto Jet está inativo.
+
+## Decisão de vida
+
+Me chamo Hydroper.
